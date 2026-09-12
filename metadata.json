@@ -1,0 +1,8 @@
+{
+  "name": "Remix  PolicyBot AI",
+  "description": "Zero-guesswork enterprise policy intelligence. Grounded strictly in your organization\u0027s verified handbooks and statutory regulations, it delivers instant, citation-backed answers while automatically flagging unlisted inquiries into trackable HR support tickets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
